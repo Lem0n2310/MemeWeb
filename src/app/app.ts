@@ -1,6 +1,6 @@
 import { Component, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import { TuiRoot } from '@taiga-ui/core/components/root';
+import { TuiRoot } from '@taiga-ui/core/components';
 import { Header } from './header/header';
 import { Footer } from './footer/footer';
 import { Container } from './container/container';
